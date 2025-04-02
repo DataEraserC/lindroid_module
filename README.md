@@ -38,5 +38,6 @@ Depends on your android version, there's a bug in android framework that may cau
  [] - Use sepolicy instead of setting selinux to premissive.
  [] - Split the lxc part from the display part so that users can choose to handle the lxc by themselves
  [] - Patch the `services.jar` in the install process.
+ [] - Find a way to apply this [patch](https://gerrit.libremobileos.com/c/LMODroid/platform_frameworks_native/+/12936)
 ## Credits
  - [Lindroid](https://github.com/Linux-on-droid)
