@@ -1,6 +1,6 @@
 {
   "version": "v2",
   "versionCode": 2,
-  "zipUrl": "https://github.com/fish4terrisa-MSDSM/lindroid_module/releases/latest/download/Lindroid_module.zip",
-  "changelog": "https://raw.githubusercontent.com/fish4terrisa-MSDSM/lindroid_module/master/CHANGELOG.md"
+  "zipUrl": "https://github.com/fish4terrisa-MSDSM/lindroid_module/releases/latest/download/lindroid_module.zip",
+  "changelog": "https://raw.githubusercontent.com/fish4terrisa-MSDSM/lindroid_module/flyingfish/CHANGELOG.md"
 }
