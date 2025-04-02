@@ -28,7 +28,7 @@ out/target/product/generic_arm64/system/system_ext/lib64/vendor.lindroid.compose
 7. Replace the files inside it with the ones you built.
 8. Flash the module and reboot.
 
-Currently you'll have to disable selinux before lanuch LindroidUI. In the future hopefully we can use sepolicy instead.
+Currently you'll have to set selinux to premissive before lanuch LindroidUI. In the future hopefully we can use sepolicy instead.
 
 Depends on your android version, there's a bug in android framework that may cause soft reboot. You can choose to:
 - Disable systemd-udevd. See the example at [here](https://github.com/George-Seven/Termux-LXC-Guide/blob/a6d98882a5e93c5c08f4e812083d1e8bb6bc3afa/src/required-lxc-configuration/scripts/utils/utils.pre-start.sh#L68) .
